@@ -3,7 +3,7 @@ require 'formula'
 class Mysql < Formula
   homepage 'http://dev.mysql.com/doc/refman/5.6/en/'
   url 'http://cdn.mysql.com/archives/mysql-5.6/mysql-5.6.13.tar.gz'
-  sha1 'd5066327c41ac5a338ca0bb748e50bc4e1902442'
+  sha1 '06e1d856cfb1f98844ef92af47d4f4f7036ef294'
   version '5.6.13-boxen1'
 
   depends_on 'cmake' => :build
